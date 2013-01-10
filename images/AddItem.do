@@ -1,0 +1,1 @@
+BCore.instances[3].callbacks[6]([0, "OK"])

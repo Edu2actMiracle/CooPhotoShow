@@ -1,0 +1,76 @@
+
+/* left */
+.bfd_border div,.bfd_border h2,.bfd_border ul,.bfd_border p,.bfd_border li,.bfd_cart div,.bfd_cart h3,.bfd_cart ul,.bfd_cart p,.bfd_cart li,.bfd_success div,.bfd_success h3,.bfd_success ul,.bfd_success p,.bfd_success li,.bfd_search div,.bfd_search h3,.bfd_search ul,.bfd_search p,.bfd_search li,.bfd_search_small div,.bfd_search_small h3,.bfd_search_small ul,.bfd_search_small p,.bfd_search_small li,.bfd_member div,.bfd_member ul,.bfd_member p,.bfd_member li,.bfd_list div,.bfd_list h2,.bfd_list ul,.bfd_list p,.bfd_list li{margin:0;padding:0;}
+.bfd_border{margin:0 0 10px;border:1px solid #e6e6e6;font-size:12px;_width:208px;_overflow:hidden;}
+/*.bfd_border h2{background:url(http://p1.51mdq.com/images/201107/icons201107.png) repeat-x 0 -725px;height:30px;line-height:30px;font-size:14px;padding-left:10px;}*/
+.bfd_border h2{background:#f8f8f8;height:30px;line-height:30px;font-size:12px;padding-left:10px;border-bottom:1px solid #e6e6e6;}
+.bfd_border ul{padding:0 10px 18px 10px;}
+.bfd_border li{list-style:none;border-bottom:1px dotted #ccc;padding:5px 0;}
+.bfd_border .bfd_vav li{height:55px;}
+.bfd_border .bfd_vub li{text-align:center;}
+.bfd_border .bfd_vub .bfd_title{_height:36px;}
+.bfd_border li.bfd_last{border-bottom:none;}
+.bfd_border .bfd_vav img{width:50px;height:50px;display:block;border:none;}
+.bfd_border a.bfd_vav_img{float:left;margin: 0 5px 0 0;}
+.bfd_border a.bfd_vub_img{display:block;margin:0 auto;width:100px;text-align:center;padding-top:5px;margin-bottom:5px;}
+.bfd_border .bfd_vub_img img{width:100px;height:100px;display:block;}
+.bfd_border .bfd_txt em{display: block;line-height: 18px;margin: 0 0 5px;max-height: 35px;*height:35px;overflow: hidden;_width:130px;}
+.bfd_border .bfd_txt b{color:#f00;font-size:12px;font-family:Arial, Helvetica, sans-serif;}
+.bfd_border li p.bfd_title{line-height:18px;text-align:left;}
+.bfd_border li p.bfd_title .bfd_title_span {width: 62px;display: inline-block;font-family: arial;background-image: url("http://static1.baifendian.com/service/kuba_new/bfd_kb_bg.gif");color: white;line-height: 15px;}
+.bfd_border li p.bfd_title .bfd_percent{color:#ea5504;font-weight:bold;font-size:12px;}
+/*cart*/
+.bfd_cart,.bfd_success{width:980px;margin:10px auto;border:1px solid #adcef6;display:none;font-size:12px;}
+.bfd_success{border:1px solid #d5d581;}
+.bfd_cart h3,.bfd_success h3{background:#e7f2ff;height:28px;border-bottom:1px solid #adcef6;font-size:12px;color:#5c5c5c;text-indent:10px;line-height:28px;text-align:left;}
+.bfd_success h3{background:#ffffd8;border-bottom:1px solid #d5d581;}
+.bfd_cart ul,.bfd_success ul{margin-top:16px;padding:0 10px;text-align:center;_width:960px;overflow:hidden;}
+.bfd_cart li,.bfd_success li{list-style:none;float:left;width:170px;height:184px;margin-right:22px;margin-bottom:10px;}
+.bfd_cart li.bfd_last,.bfd_success li.bfd_last{margin-right:0;}
+/*search*/
+.bfd_search,.bfd_search_small{width:100%;margin:10px 0 10px 0;border:1px solid #f8e5c4;overflow:hidden;display:none;font-size:12px;}
+.bfd_search h3,.bfd_search_small h3{background:#fdfdf5;height:28px;border-bottom:1px solid #f8e5c4;font-size:12px;color:#5c5c5c;padding-left:10px;line-height:28px;text-align:left;}
+.bfd_search ul,.bfd_search_small ul{width:980px;margin-top:16px;padding:0 10px;text-align:center;overflow:hidden;}
+
+.bfd_search li,.bfd_search_small li{list-style:none;width:170px;float:left;height:184px;margin-right:20px;_overflow:hidden;}
+
+.bfd_search_small li{margin-right:20px;}
+.bfd_search li.bfd_last,.bfd_search_small li.bfd_last{margin-right:0;}
+/*member*/
+.bfd_member{border:1px solid #ccc;margin:0 auto 10px auto;display:none;font-size:12px;}
+.bfd_member .bfd_BdTop{background: url(http://p1.51mdq.com/images/BdBg.jpg) repeat-x center bottom;border-bottom: 1px solid #ccc;height:29px;line-height:29px;padding-left: 10px;text-align:left;}
+.bfd_member .bfd_BdTop span{color:#ea5504;display:block;float:left;font-size:12px;font-weight:bold;height:18px;line-height:18px;padding:6px 10px 4px 0;}
+.bfd_member ul{height:360px;margin-top:10px;padding:0 10px;text-align:center;overflow:hidden;}
+.bfd_member li{list-style:none;width:180px;float:left;margin-right:15px;margin-top:8px;overflow:hidden;}
+.bfd_member li.bfd_last{margin-right:0;}
+/*commend*/
+.bfd_cart li img,.bfd_success li img,.bfd_search li img,.bfd_member li img,.bfd_search_small li img{width:100px;height:100px;margin:0 auto 4px auto;text-align:center;display:block;border:none;}
+.bfd_cart li p.bfd_title,.bfd_success li p.bfd_title,.bfd_search li p.bfd_title,.bfd_search_small li p.bfd_title,.bfd_member li p.bfd_title{line-height:18px;text-align:center;height:35px;overflow:hidden;}
+.bfd_border p.bfd_bj,.bfd_cart li p.bfd_bj,.bfd_success li p.bfd_bj,.bfd_search li p.bfd_bj,.bfd_search_small li p.bfd_bj,.bfd_member li p.bfd_bj,.bfd_list li p.bfd_bj{color:#f00;font-weight:bold;font-size:12px;margin-top:4px;font-family:Arial, Helvetica, sans-serif;}
+.bfd_border a,.bfd_member a,.bfd_search a,.bfd_search_small a,.bfd_cart a,.bfd_success a,.bfd_list a{text-decoration:none;color:#404040;}
+.bfd_border a:hover,.bfd_member a:hover,.bfd_search a:hover,.bfd_search_small a:hover,.bfd_cart a:hover,.bfd_success a:hover,.bfd_list a:hover{color:#ea5504;}
+
+/*list*/
+.bfd_list_border{font-size:12px;width:210px;}
+.bfd_list{border: 1px solid #f6d7b7;margin:0 0 10px 0;background:#fffefa;padding:0;width:208px;}
+.bfd_list h2{font-size: 14px;color:#ea5504;height: 30px;line-height: 30px;padding: 0 10px;background:url(http://www.baifendian.com/service/kuba_new/list_bg.gif) repeat-x;width:188px;}
+.bfd_list ul.bfd_list_ul{padding:0 10px 18px 10px;}
+.bfd_list li{list-style:none;padding:5px 0;text-align:left;border-bottom:1px dotted #e6e6e6;_height:42px;position:relative;}
+.bfd_list li.bfd_last{border-bottom:none;}
+.bfd_list a.bfd_img{display:block;margin:0 auto;width:100px;text-align:center;padding-top:5px;margin-bottom:5px;}
+.bfd_list img{width:100px;height:100px;display:block;}
+.bfd_list li p.bfd_title{line-height:18px;height:36px;overflow:hidden;text-align:left;}
+.bfd_list li .bfd_num,.bfd_list li .bfd_num1,.bfd_list li .bfd_num2{display:block;position:absolute;left:0px;top:9px;background:#f24e32;width:14px;height:14px;line-height:14px;color:#fff;font-size:12px;text-align:center;font-family:Arial, Helvetica, sans-serif,"宋体";}
+.bfd_list li .bfd_num1{background:#f27a32;}
+.bfd_list li .bfd_num2{background:#e6e6e6;color:#000;}
+.bfd_list li em{display:block;height:38px;line-height:20px;padding-left:22px;text-align:left;cursor:pointer;overflow:hidden;}
+.bfd_list li div{display:none;text-align:center;}
+.bfd_search_left{margin-top:418px;float:left;}
+
+a.bfd_img_logo{float:right;display:block;width:101px;height:13px;margin:-15px 3px 0 0;background:url(http://static.baifendian.com/themes/logo/bfd_logo_ch.png) no-repeat;_background:url(http://static.baifendian.com/themes/logo/bfd_logo_ch.gif) no-repeat;overflow:hidden;}
+a.bfd_img_logo:hover{background:url(http://static.baifendian.com/themes/logo/bfd_logo_ch.png) no-repeat 0 -14px;_background:url(http://static.baifendian.com/themes/logo/bfd_logo_ch.gif) no-repeat 0 -14px;}
+
+
+a.bfd_img_logo_member2{float:right;display:block;width:101px;height:13px;margin:-15px 15px 0 0;background:url(http://static.baifendian.com/themes/logo/bfd_logo_ch.png) no-repeat;_background:url(http://static.baifendian.com/themes/logo/bfd_logo_ch.gif) no-repeat;overflow:hidden;}
+a.bfd_img_logo_member2:hover{background:url(http://static.baifendian.com/themes/logo/bfd_logo_ch.png) no-repeat 0 -14px;_background:url(http://static.baifendian.com/themes/logo/bfd_logo_ch.gif) no-repeat 0 -14px;}
+
